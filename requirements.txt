@@ -1,8 +1,8 @@
  numpy
  pandas 
-  flask, request, jsonify
- sklearn.linear_model
- LinearRegression
- joblib
-  os
- logging
+flask
+ scikit-learn
+ requests
+ matplotlib
+ seaborn
+ scipy
