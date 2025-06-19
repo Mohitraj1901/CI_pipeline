@@ -1,0 +1,8 @@
+ numpy
+ pandas 
+  flask, request, jsonify
+ sklearn.linear_model
+ LinearRegression
+ joblib
+  os
+ logging
